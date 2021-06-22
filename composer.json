@@ -1,0 +1,11 @@
+{
+    "name": "rleme/icatalogo-mvc",
+    "description": "Projeto iCatalogo com PDO e MVC",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "App\\" : "App/"
+        }
+    }
+
+}
